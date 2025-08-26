@@ -2,7 +2,7 @@
 
 Aplicación de ejemplo para gestionar **Pacientes** y **Doctores**.
 
-## 📦 Requisitos
+## Requisitos
 - Android Studio (Flamingo o superior)
 - JDK 11
 - `minSdk=28`, `targetSdk=35`
