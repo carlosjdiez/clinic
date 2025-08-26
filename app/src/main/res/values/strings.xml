@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Clinic</string>
+
+    <string name="menu_patients">Pacientes</string>
+    <string name="menu_doctors">Doctores</string>
+    <string name="menu_map">Ver mapa</string>
+    <string name="menu_register_patient">Registrar paciente</string>
+    <string name="menu_register_doctor">Registrar doctor</string>
+
+    <string name="label_name">Nombre</string>
+    <string name="label_surname">Apellidos</string>
+    <string name="label_email">Email</string>
+    <string name="label_birthdate">Fecha de nacimiento</string>
+    <string name="label_weight">Peso (kg)</string>
+    <string name="label_active">Activo</string>
+
+    <string name="label_license">Nº colegiado</string>
+    <string name="label_specialty">Especialidad</string>
+    <string name="label_hiring_date">Fecha de contratación</string>
+
+    <string name="action_add">Añadir</string>
+    <string name="action_update">Actualizar</string>
+    <string name="action_edit">Editar</string>
+    <string name="action_delete">Eliminar</string>
+
+    <string name="error_date_format">Formato de fecha inválido</string>
+    <string name="error_generic">Error. Revisa los campos</string>
+    <string name="see_hospitals_map">Ver hospitales (mapa)</string>
+    <string name="lb_esta_seguro_eliminar">¿Está seguro de eliminar este registro?</string>
+    <string name="lb_esta_seguro_guardar">¿Guardar los cambios?</string>
+    <string name="lb_si">Sí</string>
+    <string name="lb_no">No</string>
+</resources>

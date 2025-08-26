@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clinic</string>
+
+    <string name="menu_patients">Patients</string>
+    <string name="menu_doctors">Doctors</string>
+    <string name="menu_map">View map</string>
+    <string name="menu_register_patient">Register patient</string>
+    <string name="menu_register_doctor">Register doctor</string>
+
+    <string name="label_name">Name</string>
+    <string name="label_surname">Surname</string>
+    <string name="label_email">Email</string>
+    <string name="label_birthdate">Date of birth</string>
+    <string name="label_weight">Weight (kg)</string>
+    <string name="label_active">Active</string>
+
+    <string name="label_license">License No.</string>
+    <string name="label_specialty">Specialty</string>
+    <string name="label_hiring_date">Hiring date</string>
+
+    <string name="action_add">Add</string>
+    <string name="action_update">Update</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="error_date_format">Invalid date format</string>
+    <string name="error_generic">Error. Check the fields</string>
+    <string name="see_hospitals_map">See hospitals (map)</string>
+    <string name="lb_esta_seguro_eliminar">Are you sure you want to delete this record?</string>
+    <string name="lb_esta_seguro_guardar">Save changes?</string>
+    <string name="lb_si">Yes</string>
+    <string name="lb_no">No</string>
+</resources>
