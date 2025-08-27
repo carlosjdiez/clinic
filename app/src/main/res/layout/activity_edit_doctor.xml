@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/et_doctor_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/label_name" />
+
+    <EditText
+        android:id="@+id/et_doctor_surname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/label_surname" />
+
+    <EditText
+        android:id="@+id/et_doctor_license"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/label_license" />
+
+    <EditText
+        android:id="@+id/et_doctor_specialty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/label_specialty" />
+
+    <EditText
+        android:id="@+id/et_doctor_hiring"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="date"
+        android:hint="@string/label_hiring_date" />
+
+    <CheckBox
+        android:id="@+id/cb_doctor_active"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_active" />
+
+    <Button
+        android:id="@+id/btn_doctor_update"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/action_update" />
+
+</LinearLayout>
