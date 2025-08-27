@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_hospitals_map"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:title="@string/see_hospitals_map"
+        android:showAsAction="always"/>
+    <item android:id="@+id/action_patients" android:title="@string/menu_patients"/>
+    <item android:id="@+id/action_doctors"  android:title="@string/menu_doctors"/>
+    <item android:id="@+id/action_register_patient" android:title="@string/menu_register_patient"/>
+</menu>
